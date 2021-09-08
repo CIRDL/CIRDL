@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CIRDL
+- 👀 I’m interested in cryptocurrency
+- 🌱 I’m currently learning Solidity & how to work with smart contracts
+- 📫 Reach me on twitter @ https://twitter.com/cesarramirez_02
