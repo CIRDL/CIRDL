@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CIRDL
-- 👀 I’m interested in cryptocurrency & DAO's
-- 🌱 I’m currently learning front-end development and Java. 
+- 👀 I’m interested in blockchains & DAOs
+- 🌱 I’m currently learning blockchain development and C++. 
 - 📫 Reach me on twitter @ https://twitter.com/cesarramirez_02 
