@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @CIRDL
-- 👀 I’m interested in blockchains & DAOs
-- 🌱 I’m currently learning blockchain development and C++. 
+- 👀 I’m interested in data science and blockchain developments.
+- 🌱 I’m currently learning JavaScript! 
 - 📫 Reach me on twitter @ https://twitter.com/cesarramirez_02 
