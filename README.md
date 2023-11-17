@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @CIRDL
-- 👀 I’m interested in data science and blockchain developments.
-- 🌱 I’m currently learning JavaScript! 
 - 📫 Reach me on LinkedIn @ https://www.linkedin.com/in/cesar-ramirez-/
